@@ -1,2 +1,2 @@
 # SuNew
-for practice
+for practice this code with aws
